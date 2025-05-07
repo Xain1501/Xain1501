@@ -38,9 +38,10 @@ I tend to hop into any tech that sparks curiosity—I'm a hands-on learner who l
 Here’s where I’m building fun, bite-sized projects to explore coding while experimenting and enjoying the process!
 
 ## 📁 Project Collections
-<!---
+
 - [University Projects](https://github.com/yourusername/fun-python-projects)
-- [Fun Python Projects](https://github.com/yourusername/fun-python-projects)
+- [Fun Projects](https://github.com/Xain1501/Fun-Projects-For-Learning.git)
+<!---
 - [JavaScript Practice](https://github.com/yourusername/js-experiments)
 - [Learning React](https://github.com/yourusername/react-practice-projects)
 
