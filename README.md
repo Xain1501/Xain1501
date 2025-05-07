@@ -39,7 +39,7 @@ Here’s where I’m building fun, bite-sized projects to explore coding while e
 
 ## 📁 Project Collections
 
-- [University Projects](https://github.com/yourusername/fun-python-projects)
+- [University Projects](https://github.com/Xain1501/University-Projects.git)
 - [Fun Projects](https://github.com/Xain1501/Fun-Projects-For-Learning.git)
 <!---
 - [JavaScript Practice](https://github.com/yourusername/js-experiments)
