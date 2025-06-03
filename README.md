@@ -41,6 +41,7 @@ Here’s where I’m building fun, bite-sized projects to explore coding while e
 
 - [University Projects](https://github.com/Xain1501/University-Projects.git)
 - [Fun Projects](https://github.com/Xain1501/Fun-Projects-For-Learning.git)
+- [Vibe Coding](https://github.com/Xain1501/Vibe_Coding_Projects.git).
 <!---
 - [JavaScript Practice](https://github.com/yourusername/js-experiments)
 - [Learning React](https://github.com/yourusername/react-practice-projects)
