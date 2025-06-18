@@ -14,6 +14,8 @@ I'm deeply curious and passionate about learning. My long-term goal is to master
 - **React.js** – Diving into the MERN stack.
 - **SQL & Databases** – Understanding how data is stored and accessed.
 - **Basic Networking** – Setting up LANs for small-scale projects.
+- **Angular** – Currently building my first full project using Angular; learning about routing, services, forms, and components.
+- **.NET (C#)** – Beginning my journey with .NET, exploring backend development, APIs, and desktop applications.
 
 I tend to hop into any tech that sparks curiosity—I'm a hands-on learner who likes to explore everything!
 
@@ -48,7 +50,4 @@ Here’s where I’m building fun, bite-sized projects to explore coding while e
 
 ---
 
-
-Xain1501/Xain1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
